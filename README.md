@@ -1,7 +1,7 @@
 # Advent Of Code 2024!!
 
 ## Languages:
-- [ ] Day 1: Lisp
+- [x] Day 1: Lisp
 - [ ] Day 2: 
 - [ ] Day 3: Ada
 - [ ] Day 4: BASIC
