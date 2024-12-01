@@ -1,0 +1,1 @@
+sbcl --script part$1.lisp
