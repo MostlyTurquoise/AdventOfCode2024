@@ -1,0 +1,16 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Day 3 of AOC 2024",
+  "main": "part1.js",
+  "scripts": {
+    "part1": "node part1.js",
+    "part2": "node part2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^14.0.0"
+  }
+}

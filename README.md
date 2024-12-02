@@ -3,7 +3,7 @@
 ## Languages:
 - [x] Day 1: Lisp
 - [ ] Day 2: BASIC
-- [ ] Day 3: Ada
+- [ ] Day 3: Regex / Maths (js)
 - [ ] Day 4: 
 - [ ] Day 5: Cobol
 - [ ] Day 6: D
