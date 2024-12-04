@@ -2,7 +2,7 @@ import fs from "fs/promises";
 
 (async () => {
     let total = 0;
-    (await fs.readFile("./input"))
+    (await fs.readFile("./input.txt"))
         .toString()
         .match(/mul\(([0-9]{0,3}),([0-9]{0,3})\)/g)
         .map((m) => {

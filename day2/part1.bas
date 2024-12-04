@@ -1,6 +1,6 @@
 10 print "Starting"
 100 LET totalsafe = 0
-120 open "input" FOR input as #1
+120 open "input.txt" FOR input as #1
 130 WHILE not eof(1)
 140   input #1, line$
 145   LET vals = 1

@@ -35,7 +35,7 @@ let
                 (mapcar #'splitandparse 
                     (uiop:split-string 
                         (uiop:read-file-string 
-                            (merge-pathnames "input" 
+                            (merge-pathnames "input.txt" 
                                 (uiop/os:getcwd))) :separator uiop:+lf+
 ))))        
         (apply '+ (mapcar #'absdiff 

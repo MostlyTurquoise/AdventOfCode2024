@@ -4,7 +4,7 @@ import {abs} from "mathjs"
 (async () => {
     let total = 0;
     let reading = 1;
-    (await fs.readFile("./input")).toString().match(/mul\(([0-9]{0,3}),([0-9]{0,3})\)|do\(\)|don\'t\(\)/g)
+    (await fs.readFile("./input.txt")).toString().match(/mul\(([0-9]{0,3}),([0-9]{0,3})\)|do\(\)|don\'t\(\)/g)
     .map((m) => {
         console.log(m)
         let mr = 1;
