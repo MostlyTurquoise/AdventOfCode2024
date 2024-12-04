@@ -4,10 +4,10 @@
 - [x] Day 1: Lisp
 - [ ] * Day 2: BASIC
 - [x] Day 3: Regex / Maths (js)
-- [ ] Day 4: 
-- [ ] Day 5: Cobol
-- [ ] Day 6: D
-- [ ] Day 7: Dart
+- [x] Day 4: Dart
+- [ ] Day 5: 
+- [ ] Day 6: Cobol
+- [ ] Day 7: D
 - [ ] Day 8: Perl
 - [ ] Day 9: Swift
 - [ ] Day 10: Go
