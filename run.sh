@@ -1,4 +1,3 @@
-#!/bin/env bash
 echo "Day $1"
 echo "Running part $2:"
 python3 load-input.py $1

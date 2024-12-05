@@ -5,10 +5,10 @@
 - [ ] * Day 2: BASIC
 - [x] Day 3: Regex / Maths (js)
 - [x] Day 4: Dart
-- [ ] Day 5: 
-- [ ] Day 6: Cobol
-- [ ] Day 7: D
-- [ ] Day 8: Perl
+- [ ] Day 5: Cobol
+- [ ] Day 6: D
+- [ ] Day 7: Perl
+- [ ] Day 8: Lua
 - [ ] Day 9: Swift
 - [ ] Day 10: Go
 - [ ] Day 11: Ruby
@@ -25,6 +25,7 @@
 - [ ] Day 22: Python
 - [ ] Day 23: Javascript
 - [ ] Day 24: Typescript
+- [ ] Day 25: By Hand
 
 ## Language Options
 - Javascript
@@ -52,6 +53,7 @@
 - BASIC
 - Ada
 - Lisp
+- Lua
 
 - ShakespeareLang?
 - F#?
