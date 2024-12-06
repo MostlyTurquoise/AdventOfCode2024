@@ -1,6 +1,8 @@
 echo "Day $1"
 echo "Running part $2:"
-python3 load-input.py $1
+if [ -z "$3" ]; then
+    python3 load-input.py $1
+fi
 OLLOC=$(pwd)
 echo $OLLOC
 cd ./day$1/

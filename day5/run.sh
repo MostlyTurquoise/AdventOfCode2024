@@ -1,0 +1,1 @@
+gdc part$1.d -o ./bin && ./bin
