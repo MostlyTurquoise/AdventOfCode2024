@@ -5,8 +5,8 @@
 - [ ] * Day 2: BASIC
 - [x] Day 3: Regex / Maths (js)
 - [x] Day 4: Dart
-- [ ] Day 5: Cobol
-- [ ] Day 6: D
+- [x] Day 5: D
+- [ ] Day 6: Cobol
 - [ ] Day 7: Perl
 - [ ] Day 8: Lua
 - [ ] Day 9: Swift
