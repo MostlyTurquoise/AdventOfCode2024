@@ -7,8 +7,8 @@
 - [x] Day 4: Dart
 - [x] Day 5: D
 - [ ] * Day 6: Perl
-- [ ] Day 7: Cobol
-- [ ] Day 8: Lua
+- [ ] Day 7: Lua
+- [ ] Day 8: Cobol
 - [ ] Day 9: Swift
 - [ ] Day 10: Go
 - [ ] Day 11: Ruby
